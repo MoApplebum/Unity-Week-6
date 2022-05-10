@@ -28,22 +28,6 @@
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": ""
-                },
-                {
-                    "name": "Gas",
-                    "type": "Button",
-                    "id": "36714960-c005-45e0-8ce8-ac031d2d184e",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": ""
-                },
-                {
-                    "name": "Reverse",
-                    "type": "Button",
-                    "id": "d419f41c-52f1-4579-80ec-6d8ed2baaf29",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": ""
                 }
             ],
             "bindings": [
@@ -264,28 +248,6 @@
                     "processors": "",
                     "groups": "XR",
                     "action": "Fire",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "96290af7-3193-4cc2-8e97-a90739e7d985",
-                    "path": "<Keyboard>/space",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Gas",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "126695c9-1c5d-4d20-972f-95203e5a73be",
-                    "path": "<Keyboard>/leftShift",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Reverse",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
